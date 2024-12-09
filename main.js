@@ -85,7 +85,7 @@ const currentProductImg = document.querySelector('.productImg');
 const currentProductTitle = document.querySelector('.productTitle');
 const currentProductPrice = document.querySelector('.productPrice');
 const currentProductColors = document.querySelectorAll('.color');
-const currentProductSizes = document.querySelectorAll('.sizes');
+const currentProductSizes = document.querySelectorAll('.size');
 
 
 

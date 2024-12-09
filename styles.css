@@ -136,7 +136,7 @@ nav{
     background-color: #369e62;
 }
 .sliderItem:nth-child(2) .sliderPrice{
-    background-color: white;
+    background-color: rebeccapurple;
 }
 .sliderItem:nth-child(3) .sliderPrice{
     background-color: teal;
@@ -145,7 +145,7 @@ nav{
     background-color: cornflowerblue;
 }
 .sliderItem:nth-child(5) .sliderPrice{
-    background-color: cornsilk;
+    background-color: rgb(124, 115, 80);
 }
 
 .features{
@@ -173,7 +173,7 @@ nav{
     margin: 20px;
 }
 
-featureDesc{
+.featureDesc{
     color: grey;
     width: 50px;
     height: 100%;
